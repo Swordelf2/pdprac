@@ -5,10 +5,10 @@
 (King Symbolic execution and program testing)
 * 
 * Изучение метода построения абстрактных интерпретаций программ
-(Floyd Assigning meanings to programs)
+(Floyd Assigning meanings to programs)  
 * (x2) Изучение методов автоматического обнаружения эксплутируемых ошибок
-(Mayhem)
+(Mayhem)  
 * (x2) Изучение методов автоматической генерации эксплойтов
-(AEG)
+(AEG)  
 * Изучение языка SMT-LIB
 * Практическая работа с языком SMT-LIB и SMT-решателем z3
