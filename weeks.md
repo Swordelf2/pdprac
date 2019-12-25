@@ -2,7 +2,7 @@
 14 недель в дневнике  
 * Практическая работа с Pivot 2
 * Изучение основ метода символьного выполнения
-(King Symbolic execution and program testing)
+(King Symbolic execution and program testing)  
 * 
 * Изучение метода построения абстрактных интерпретаций программ
 (Floyd Assigning meanings to programs)  
